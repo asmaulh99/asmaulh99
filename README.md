@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Asmaul Husna
 
-<!--
-**asmaulh99/asmaulh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer | System Architect | Tech Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** JavaScript (Node.js), TypeScript, Go, PHP (Laravel)
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+- **Frameworks:** Express, NestJS, Gin, Laravel
+- **DevOps:** Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
+- **Tools:** Git, Postman, RabbitMQ, Redis
+- **Architecture:** Microservices, Distributed Systems, Scalable Backend Systems
+
+---
+
+### 💡 What I'm Learning Now
+- Advanced **system architecture** and **distributed systems**.
+- Exploring **Angular** and **frontend development**.
+
+---
+
+### 💼 Professional Experience
+I have over 2 years of experience working on high-scale backend systems, focusing on performance optimization, distributed architecture, and database efficiency. I have collaborated with product managers and frontend teams to deliver highly scalable applications with robust performance.
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/asmaulh99)
+- [Email](mailto:cearmaul@gmail.com)
+
+---
+
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
